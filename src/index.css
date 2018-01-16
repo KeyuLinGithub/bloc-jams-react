@@ -2,4 +2,15 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-color: transparent;
+}
+html {
+background: url(./img/5278.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+div {
+  background-color: transparent;
 }
